@@ -1,8 +1,3 @@
-# CMake, Testing and Tooling for C/C++
+This repo contains code and learning materials from the Udemy Course
 
-This is the code to my Udemy course:
-*CMake, Testing and Tooling for C/C++* by Jan Schaffranek.
-
-## Sale-Coupons
-
-Link to my sale coupons: [Link](https://github.com/franneck94/YoutubeVideos/blob/master/EnglishCourses.md)
+https://www.udemy.com/course/cmake-tests-and-tooling-for-cc-projects/learn/
